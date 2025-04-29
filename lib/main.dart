@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 10),
             Text(
-              "Kalp Krizi Riski: %1",
+              "Kalp Krizi Riski: %10",
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 10),
